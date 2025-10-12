@@ -1,0 +1,14 @@
+let score ="33"
+let valInNum = Number(score)
+//String like hi we get Nan and
+//  undefined also we get Nan for 
+// null 0 for boolean true 1 and false 0
+/*"33"-33
+"33abc"=Nan
+true = 1,false =0*/
+ /* number to boolean 
+ 1-true,0-false
+ ""-false
+ "pooja"- true
+ */
+
